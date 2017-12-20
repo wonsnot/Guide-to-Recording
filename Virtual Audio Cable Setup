@@ -1,0 +1,7 @@
+I highly recommend paying for the full virtual audio cable package. This guide is geared toward having 3 Virtual Audio Cables.
+
+• Download and install all of the virtual audio cables, then restart.
+• Set your default "speakers" to the first VAC and rename it to Desktop Audio if you like
+• Set your Discord/Teamspeak audio to VAC A and rename to Coms
+• Go to your recording devices and set Desktop Audio and Coms to be listened to on Cable B (Rename to Mix Out).
+• Set Mix Out to be listened to on your headphones.
